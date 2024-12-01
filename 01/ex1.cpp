@@ -11,8 +11,7 @@ int main(){
   std::priority_queue<int> lst1, lst2;
 
   // Lectura de entrada
-  for (int i = 0; i < 1000; ++i){
-    std::cin >> n1 >> n2;
+  while (std::cin >> n1 >> n2){
     lst1.push(n1); lst2.push(n2);
   }
 
