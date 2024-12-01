@@ -1,6 +1,5 @@
 #include <iostream>
-#include <queue>
-#include <cmath>
+#include <vector>
 #include <map>
 
 // Solución en O(n)
